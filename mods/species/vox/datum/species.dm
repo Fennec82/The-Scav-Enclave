@@ -1,5 +1,5 @@
 /datum/appearance_descriptor/age/vox
-	chargen_min_index = 4
+	chargen_min_index = 5
 	chargen_max_index = 6
 	standalone_value_descriptors = list(
 		"freshly spawned" =  1,
