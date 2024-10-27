@@ -9,6 +9,7 @@ Thumbs.db
 *.before
 dmdoc/
 cfg/
+data/character_info/
 build_log.txt
 use_map
 stopserver
@@ -47,3 +48,4 @@ lib/*.so
 *.pyc
 __pycache__
 maps/ministation/ministation-2BAK.dmm
+
