@@ -520,12 +520,7 @@
 /obj/effect/decal/cleanable/dirt/visible,
 /obj/random/trash,
 /obj/effect/decal/cleanable/blood/splatter,
-<<<<<<< HEAD
-/turf/floor/tiled/techfloor,
-=======
-/mob/living/simple_animal/hostile/faithless/cult,
 /turf/simulated/floor/tiled/techfloor,
->>>>>>> origin/master
 /area/map_template/hateville/power)
 "aU" = (
 /obj/effect/decal/cleanable/blood/splatter,
@@ -1106,12 +1101,7 @@
 	icon_state = "1-8";
 	dir = 1
 	},
-<<<<<<< HEAD
-/turf/floor/tiled/techfloor/grid,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/techfloor/grid,
->>>>>>> origin/master
 /area/map_template/hateville/environment)
 "bO" = (
 /obj/effect/floor_decal/corner_techfloor_grid{
@@ -1354,12 +1344,7 @@
 	},
 /obj/effect/decal/cleanable/blood/splatter,
 /obj/random/trash,
-<<<<<<< HEAD
-/turf/floor/tiled/white{
-=======
-/mob/living/simple_animal/hostile/faithless/cult,
 /turf/simulated/floor/tiled/white{
->>>>>>> origin/master
 	color = "#6b2b2b"
 	},
 /area/map_template/hateville/security)
@@ -3428,14 +3413,10 @@
 	dir = 8
 	},
 /obj/effect/decal/cleanable/blood/splatter,
-<<<<<<< HEAD
 /obj/abstract/submap_landmark/spawnpoint/hateville_spawn{
 	name = "Colony Survivor"
 	},
-/turf/floor/carpet/blue2,
-=======
 /turf/simulated/floor/carpet/blue2,
->>>>>>> origin/master
 /area/map_template/hateville/dormitories6)
 "eY" = (
 /obj/effect/floor_decal/industrial/warning,
@@ -3832,12 +3813,7 @@
 /obj/machinery/light/small,
 /obj/effect/decal/cleanable/blood/splatter,
 /obj/random/trash,
-<<<<<<< HEAD
-/turf/floor/tiled/white{
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/white{
->>>>>>> origin/master
 	color = "#bbc9e5"
 	},
 /area/map_template/hateville/common)
@@ -4196,12 +4172,7 @@
 /obj/effect/decal/cleanable/blood/gibs{
 	color = "#a10808"
 	},
-<<<<<<< HEAD
-/turf/floor/tiled/old_tile,
-=======
-/mob/living/simple_animal/hostile/faithless/cult,
 /turf/simulated/floor/tiled/old_tile,
->>>>>>> origin/master
 /area/map_template/hateville/agricultureOU)
 "fS" = (
 /obj/effect/decal/cleanable/dirt/visible,
@@ -4317,12 +4288,7 @@
 	color = "#a10808"
 	},
 /obj/item/gun/projectile/shotgun/pump,
-<<<<<<< HEAD
-/turf/floor/carpet/blue2,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/carpet/blue2,
->>>>>>> origin/master
 /area/map_template/hateville/dormitories6)
 "ga" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/blue{
@@ -4601,13 +4567,7 @@
 	},
 /obj/effect/decal/cleanable/blood/splatter,
 /obj/random/trash,
-<<<<<<< HEAD
-/mob/living/simple_animal/aggressive/prosyletizing_employist,
-/turf/floor/tiled/white{
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/white{
->>>>>>> origin/master
 	color = "#bbc9e5"
 	},
 /area/map_template/hateville/common)
@@ -4690,12 +4650,7 @@
 /obj/effect/decal/cleanable/blood/gibs{
 	color = "#a10808"
 	},
-<<<<<<< HEAD
-/turf/floor/tiled/old_tile,
-=======
-/mob/living/simple_animal/hostile/faithless/cult,
 /turf/simulated/floor/tiled/old_tile,
->>>>>>> origin/master
 /area/map_template/hateville/agricultureIN)
 "gF" = (
 /obj/structure/railing/mapped{
@@ -4775,12 +4730,7 @@
 	color = "#a10808"
 	},
 /obj/random/trash,
-<<<<<<< HEAD
-/turf/floor/tiled/white{
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/white{
->>>>>>> origin/master
 	color = "#bbc9e5"
 	},
 /area/map_template/hateville/common)
@@ -5656,18 +5606,7 @@
 	},
 /area/map_template/hateville/foodcourt)
 "hT" = (
-/obj/structure/closet/crate/plastic/rations,
-<<<<<<< HEAD
-/obj/item/mre/menu10,
-/obj/item/mre/menu10,
-/obj/item/mre/menu10,
-/obj/item/mre/menu9,
-/obj/item/mre/menu9,
-/obj/item/mre/menu9,
-/obj/item/mre/random,
-/obj/item/mre/random,
-/obj/item/mre/random,
-=======
+/obj/structure/closet/crate/freezer/rations,
 /obj/item/storage/mre/menu10,
 /obj/item/storage/mre/menu10,
 /obj/item/storage/mre/menu10,
@@ -5677,7 +5616,6 @@
 /obj/item/storage/mre/random,
 /obj/item/storage/mre/random,
 /obj/item/storage/mre/random,
->>>>>>> origin/master
 /obj/machinery/light/small{
 	dir = 1
 	},
@@ -6710,12 +6648,7 @@
 	dir = 8;
 	pixel_x = 24
 	},
-<<<<<<< HEAD
-/turf/floor/tiled/white{
-=======
-/mob/living/simple_animal/hostile/faithless/cult,
 /turf/simulated/floor/tiled/white{
->>>>>>> origin/master
 	color = "#bbc9e5"
 	},
 /area/map_template/hateville/common)
@@ -7347,12 +7280,7 @@
 	},
 /obj/effect/decal/cleanable/blood/splatter,
 /obj/effect/decal/cleanable/vomit,
-<<<<<<< HEAD
-/turf/floor/tiled/white{
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/white{
->>>>>>> origin/master
 	color = "#bbc9e5"
 	},
 /area/map_template/hateville/common)
@@ -7462,12 +7390,7 @@
 	dir = 1
 	},
 /obj/random/trash,
-<<<<<<< HEAD
-/turf/floor/tiled/white,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/white,
->>>>>>> origin/master
 /area/map_template/hateville/medical)
 "kA" = (
 /obj/effect/wallframe_spawn/reinforced_borosilicate{
@@ -8187,34 +8110,20 @@
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	dir = 1
 	},
-<<<<<<< HEAD
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/turf/floor/concrete/reinforced/road,
-=======
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/scarybat/cult,
 /turf/exterior/concrete/reinforced/road,
->>>>>>> origin/master
 /area/template_noop)
 "lJ" = (
 /obj/effect/floor_decal/techfloor/corner{
 	dir = 4
 	},
-<<<<<<< HEAD
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-=======
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
->>>>>>> origin/master
+/mob/living/simple_animal/hostile/scarybat/cult,
 /turf/template_noop,
 /area/template_noop)
 "lK" = (
@@ -8236,12 +8145,7 @@
 /obj/effect/floor_decal/techfloor{
 	dir = 8
 	},
-<<<<<<< HEAD
-/turf/floor/concrete/reinforced/road,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/exterior/concrete/reinforced/road,
->>>>>>> origin/master
 /area/template_noop)
 "lL" = (
 /obj/machinery/atmospherics/pipe/simple/visible{
@@ -8921,13 +8825,9 @@
 /turf/floor/tiled/old_cargo,
 /area/map_template/hateville)
 "mI" = (
-<<<<<<< HEAD
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/mob/living/simple_animal/aggressive/prosyletizing_employist,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
->>>>>>> origin/master
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/faithless/cult,
 /turf/template_noop,
 /area/template_noop)
 "mJ" = (
@@ -8996,12 +8896,7 @@
 	pixel_y = -7;
 	pixel_x = 5
 	},
-<<<<<<< HEAD
-/turf/floor/tiled/white,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/white,
->>>>>>> origin/master
 /area/map_template/hateville/medical)
 "mO" = (
 /obj/effect/floor_decal/industrial/warning/dust{
@@ -10268,12 +10163,7 @@
 	},
 /obj/item/wrench/pipe,
 /obj/effect/decal/cleanable/blood,
-<<<<<<< HEAD
-/turf/floor/holofloor/tiled/stone,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/exterior/concrete,
->>>>>>> origin/master
 /area/template_noop)
 "oM" = (
 /obj/structure/hygiene/sink{
@@ -10594,12 +10484,7 @@
 	},
 /obj/effect/decal/cleanable/blood/splatter,
 /obj/effect/decal/cleanable/vomit,
-<<<<<<< HEAD
-/turf/floor/tiled/old_tile,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/old_tile,
->>>>>>> origin/master
 /area/map_template/hateville/agriculture)
 "pr" = (
 /obj/effect/decal/cleanable/blood/splatter,
@@ -11229,12 +11114,7 @@
 /obj/effect/floor_decal/techfloor{
 	dir = 8
 	},
-/turf/floor/concrete/reinforced/road,
-/area/template_noop)
-"qM" = (
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/blood/gibs/robot,
-/turf/template_noop,
+/turf/exterior/concrete/reinforced/road,
 /area/template_noop)
 "qN" = (
 /obj/machinery/atmospherics/pipe/simple/visible/black,
@@ -11738,18 +11618,10 @@
 /obj/effect/floor_decal/techfloor{
 	dir = 6
 	},
-<<<<<<< HEAD
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/turf/floor/holofloor/tiled/stone,
-=======
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/faithless/cult,
 /turf/exterior/concrete,
->>>>>>> origin/master
 /area/template_noop)
 "rN" = (
 /obj/machinery/atmospherics/pipe/simple/visible/blue{
@@ -12413,18 +12285,13 @@
 /turf/floor/tiled/old_tile,
 /area/map_template/hateville/agricultureOU)
 "tg" = (
-<<<<<<< HEAD
-/obj/effect/decal/cleanable/dirt/visible,
+/obj/effect/decal/cleanable/dirt,
 /obj/structure/mech_wreckage/military,
 /obj/effect/decal/cleanable/blood/splatter,
 /obj/effect/decal/cleanable/blood/gibs{
 	color = "#a10808"
 	},
-=======
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/retaliate/malf_drone,
->>>>>>> origin/master
+/obj/abstract/landmark/corpse/syndicate/commando,
 /turf/template_noop,
 /area/template_noop)
 "th" = (
@@ -13214,15 +13081,8 @@
 /obj/machinery/light/small{
 	dir = 1
 	},
-<<<<<<< HEAD
-/obj/effect/decal/cleanable/dirt/visible,
-/mob/living/simple_animal/aggressive/prosyletizing_employist,
-/turf/floor/tiled/white{
-=======
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/faithless/cult,
 /turf/simulated/floor/tiled/white{
->>>>>>> origin/master
 	color = "#bbc9e5"
 	},
 /area/map_template/hateville/common)
@@ -13628,18 +13488,11 @@
 /turf/floor/grass,
 /area/map_template/hateville/command)
 "vv" = (
-/obj/structure/closet/crate/plastic/rations,
-<<<<<<< HEAD
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/turf/floor/concrete,
-=======
+/obj/structure/closet/crate/freezer/rations,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /turf/exterior/concrete,
->>>>>>> origin/master
 /area/map_template/hateville/power)
 "vx" = (
 /obj/effect/decal/cleanable/dirt/visible,
@@ -14206,11 +14059,7 @@
 /obj/effect/floor_decal/techfloor/corner{
 	dir = 8
 	},
-/turf/floor/concrete,
-/area/template_noop)
-"wN" = (
-/mob/living/simple_animal/hostile/retaliate/malf_drone,
-/turf/template_noop,
+/turf/exterior/concrete,
 /area/template_noop)
 "wO" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
@@ -14300,13 +14149,8 @@
 /obj/effect/decal/cleanable/dirt/visible,
 /obj/effect/decal/cleanable/dirt/visible,
 /obj/effect/decal/cleanable/blood/splatter,
-<<<<<<< HEAD
-/turf/floor/tiled/techfloor/grid,
-=======
 /mob/living/simple_animal/hostile/mimic/sleeping,
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/techfloor/grid,
->>>>>>> origin/master
 /area/map_template/hateville/maintenance)
 "wZ" = (
 /obj/effect/decal/cleanable/dirt/visible,
@@ -14389,14 +14233,8 @@
 /obj/effect/floor_decal/industrial/warning/dust{
 	dir = 8
 	},
-<<<<<<< HEAD
-/obj/effect/decal/cleanable/dirt/visible,
-/turf/floor/concrete/reinforced/road,
-=======
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/scarybat/cult,
 /turf/exterior/concrete/reinforced/road,
->>>>>>> origin/master
 /area/template_noop)
 "xi" = (
 /obj/effect/decal/cleanable/blood/splatter,
@@ -15177,12 +15015,7 @@
 /obj/effect/decal/cleanable/blood/splatter,
 /obj/item/ammo_magazine/shotholder/empty,
 /obj/random/trash,
-<<<<<<< HEAD
-/turf/floor/tiled/freezer,
-=======
-/mob/living/simple_animal/hostile/faithless/cult,
 /turf/simulated/floor/tiled/freezer,
->>>>>>> origin/master
 /area/map_template/hateville/foodcourt)
 "zh" = (
 /obj/machinery/smartfridge/seeds,
@@ -16103,12 +15936,7 @@
 	},
 /obj/effect/decal/cleanable/blood/splatter,
 /obj/random/trash,
-<<<<<<< HEAD
-/turf/floor/concrete/reinforced/road,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/exterior/concrete/reinforced/road,
->>>>>>> origin/master
 /area/template_noop)
 "AZ" = (
 /obj/structure/railing/mapped{
@@ -16234,12 +16062,7 @@
 	},
 /obj/effect/decal/cleanable/blood/splatter,
 /obj/random/trash,
-<<<<<<< HEAD
-/turf/floor/tiled/white,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/white,
->>>>>>> origin/master
 /area/map_template/hateville/medical)
 "Bp" = (
 /obj/machinery/vending/hydronutrients{
@@ -16557,12 +16380,6 @@
 /obj/effect/floor_decal/industrial/warning/dust{
 	dir = 4
 	},
-<<<<<<< HEAD
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/turf/floor/concrete/reinforced/road,
-/area/template_noop)
-=======
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /turf/exterior/concrete/reinforced/road,
@@ -16570,9 +16387,10 @@
 "Cj" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/retaliate/malf_drone,
 /turf/template_noop,
-/area/map_template/hateville/armory)
->>>>>>> origin/master
+/area/template_noop)
 "Ck" = (
 /obj/effect/floor_decal/techfloor{
 	dir = 10
@@ -17616,17 +17434,10 @@
 /turf/floor/concrete,
 /area/map_template/hateville/mining)
 "Ep" = (
-<<<<<<< HEAD
-/mob/living/simple_animal/aggressive/prosyletizing_employist,
-=======
-/obj/effect/floor_decal/industrial/warning/dust{
-	dir = 8
-	},
-/obj/structure/railing/mapped{
-	dir = 8
-	},
-/mob/living/simple_animal/hostile/scarybat/cult,
->>>>>>> origin/master
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/retaliate/malf_drone,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt,
 /turf/template_noop,
 /area/map_template/hateville/power)
 "Eq" = (
@@ -18431,12 +18242,7 @@
 /obj/effect/floor_decal/techfloor{
 	dir = 5
 	},
-<<<<<<< HEAD
-/turf/floor/holofloor/tiled/stone,
-=======
-/mob/living/simple_animal/hostile/scarybat/cult,
 /turf/exterior/concrete,
->>>>>>> origin/master
 /area/template_noop)
 "Gf" = (
 /turf/template_noop,
@@ -21490,12 +21296,7 @@
 	color = "#a10808"
 	},
 /obj/effect/decal/cleanable/blood/splatter,
-<<<<<<< HEAD
-/turf/floor/tiled/techfloor,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/techfloor,
->>>>>>> origin/master
 /area/map_template/hateville/medical)
 "Nl" = (
 /obj/machinery/light/small,
@@ -21778,13 +21579,11 @@
 	color = "#6b2b2b"
 	},
 /area/map_template/hateville/prison)
-<<<<<<< HEAD
-=======
 "NS" = (
-/mob/living/simple_animal/hostile/scarybat/cult,
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/retaliate/malf_drone,
 /turf/template_noop,
 /area/template_noop)
->>>>>>> origin/master
 "NT" = (
 /obj/machinery/atmospherics/pipe/manifold4w/visible,
 /obj/structure/cable{
@@ -23155,12 +22954,7 @@
 	},
 /obj/effect/decal/cleanable/blood/splatter,
 /obj/effect/decal/cleanable/blood/splatter,
-<<<<<<< HEAD
-/turf/floor/tiled/techfloor,
-=======
-/mob/living/simple_animal/hostile/faithless/cult,
 /turf/simulated/floor/tiled/techfloor,
->>>>>>> origin/master
 /area/map_template/hateville/maintenance)
 "QQ" = (
 /obj/effect/floor_decal/techfloor{
@@ -23963,12 +23757,7 @@
 /obj/effect/decal/cleanable/dirt/visible,
 /obj/effect/decal/cleanable/blood/splatter,
 /obj/random/trash,
-<<<<<<< HEAD
-/turf/floor/tiled/techfloor,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/techfloor,
->>>>>>> origin/master
 /area/map_template/hateville/materials)
 "SE" = (
 /obj/structure/catwalk,
@@ -24244,30 +24033,15 @@
 /turf/floor/concrete,
 /area/map_template/hateville/materials)
 "Th" = (
-<<<<<<< HEAD
 /obj/structure/catwalk,
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt,
 /obj/effect/floor_decal/techfloor{
 	dir = 8
 	},
-/mob/living/simple_animal/aggressive/prosyletizing_employist,
-/obj/structure/cable{
-	icon_state = "1-2"
-	},
-/turf/floor/holofloor/tiled/stone,
+/mob/living/simple_animal/hostile/scarybat/cult,
+/turf/exterior/concrete,
 /area/template_noop)
-=======
-/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/hidden/supply{
-	dir = 4
-	},
-/mob/living/simple_animal/hostile/creature/cult,
-/turf/simulated/floor/tiled/old_tile,
-/area/map_template/hateville/agricultureIN)
->>>>>>> origin/master
 "Ti" = (
 /obj/effect/decal/cleanable/dirt/visible,
 /obj/item/ammo_magazine/rifle/drum,
@@ -25657,12 +25431,7 @@
 	icon_state = "1-2"
 	},
 /obj/effect/decal/cleanable/blood/splatter,
-<<<<<<< HEAD
-/turf/floor/tiled/white{
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/white{
->>>>>>> origin/master
 	color = "#bbc9e5"
 	},
 /area/map_template/hateville/common)
@@ -25911,30 +25680,18 @@
 	},
 /obj/effect/decal/cleanable/vomit,
 /obj/item/gun/projectile/pistol/holdout,
-<<<<<<< HEAD
-/turf/floor/tiled/old_tile,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/old_tile,
->>>>>>> origin/master
 /area/map_template/hateville/agriculture)
 "WF" = (
 /obj/effect/floor_decal/industrial/outline,
 /obj/effect/floor_decal/industrial/warning{
 	dir = 8
 	},
-<<<<<<< HEAD
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt,
 /mob/living/exosuit/premade/light/exploration,
-/turf/floor/tiled/techfloor,
-=======
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/techfloor,
->>>>>>> origin/master
 /area/map_template/hateville/medical)
 "WG" = (
 /obj/effect/floor_decal/corner_techfloor_grid{
@@ -26038,14 +25795,8 @@
 /turf/floor/tiled/techfloor,
 /area/map_template/hateville/maintenance)
 "WT" = (
-<<<<<<< HEAD
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-=======
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/mob/living/simple_animal/hostile/scarybat/cult,
->>>>>>> origin/master
 /turf/template_noop,
 /area/map_template/hateville/agricultureIN)
 "WU" = (
@@ -27035,37 +26786,13 @@
 	color = "#a10808"
 	},
 /obj/effect/decal/cleanable/vomit,
-<<<<<<< HEAD
-/turf/floor/concrete/reinforced/road,
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/exterior/concrete/reinforced/road,
->>>>>>> origin/master
 /area/template_noop)
 "YL" = (
 /obj/machinery/firealarm{
 	pixel_y = 24
 	},
-/obj/structure/closet/crate/plastic/rations,
-<<<<<<< HEAD
-/obj/item/mre/random,
-/obj/item/mre/random,
-/obj/item/mre/random,
-/obj/item/mre/menu9,
-/obj/item/mre/menu9,
-/obj/item/mre/menu9,
-/obj/item/mre/menu10,
-/obj/item/mre/menu10,
-/obj/item/mre/menu10,
-/obj/item/mre/menu11,
-/obj/item/mre/menu11,
-/obj/item/mre/menu11,
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/obj/effect/decal/cleanable/dirt/visible,
-/turf/floor/tiled/techfloor/grid,
-=======
+/obj/structure/closet/crate/freezer/rations,
 /obj/item/storage/mre/random,
 /obj/item/storage/mre/random,
 /obj/item/storage/mre/random,
@@ -27083,7 +26810,6 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/techfloor/grid,
->>>>>>> origin/master
 /area/map_template/hateville/maintenance)
 "YN" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -27558,12 +27284,7 @@
 	color = "#a10808"
 	},
 /obj/random/trash,
-<<<<<<< HEAD
-/turf/floor/tiled/white{
-=======
-/mob/living/simple_animal/hostile/creature/cult,
 /turf/simulated/floor/tiled/white{
->>>>>>> origin/master
 	color = "#d9d9be"
 	},
 /area/map_template/hateville/foodcourt)
@@ -28076,23 +27797,14 @@ kN
 od
 kN
 cv
-<<<<<<< HEAD
-Ep
 aa
 Tz
 aa
 aa
 aa
-Tz
-=======
-mI
 aa
 aa
 aa
-aa
-wN
-aa
->>>>>>> origin/master
 aa
 cv
 ET
@@ -28155,12 +27867,8 @@ cv
 yI
 kN
 Xl
-<<<<<<< HEAD
 kN
-=======
-MA
->>>>>>> origin/master
-cv
+NS
 aa
 aa
 aa
@@ -28302,12 +28010,7 @@ cv
 cv
 jS
 as
-<<<<<<< HEAD
-cv
-kN
-=======
-Gh
->>>>>>> origin/master
+tA
 kN
 tg
 Mc
@@ -28452,10 +28155,7 @@ kN
 od
 cv
 od
-<<<<<<< HEAD
-kN
-=======
->>>>>>> origin/master
+mI
 kN
 zq
 kN
@@ -28745,10 +28445,7 @@ RL
 kN
 qM
 cv
-<<<<<<< HEAD
-cv
-=======
->>>>>>> origin/master
+Mi
 aa
 cv
 aa
@@ -32545,34 +32242,6 @@ NH
 BB
 BS
 Zc
-<<<<<<< HEAD
-rZ
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Th
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-Zg
-=======
 Rb
 qg
 qg
@@ -32584,6 +32253,7 @@ qg
 qg
 qg
 qg
+Th
 qg
 qg
 qg
@@ -32598,8 +32268,6 @@ qg
 qg
 qg
 qg
-qg
->>>>>>> origin/master
 tt
 af
 OS
