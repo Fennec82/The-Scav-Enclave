@@ -78,11 +78,11 @@
 	chargen_max_index = 5
 	standalone_value_descriptors = list(
 		"a hatchling" =     1,
-		"a juvenile" =     2,
-		"an adult" =        3,
-		"middle-aged" =    13,
-		"aging" =          25,
-		"elderly" =        30
+		"an younglet" =     3,
+		"an adult" =        18,
+		"middle-aged" =    30,
+		"aging" =          45,
+		"elderly" =        50
 	)
 
 /decl/bodytype/yinglet/Initialize()

@@ -7,18 +7,15 @@ Thumbs.db
 *.lk
 *.backup
 *.before
-data/
 dmdoc/
 cfg/
+data/character_info/
 build_log.txt
 use_map
 stopserver
 reboot_called
 atupdate
 
-# ignore config, but not subdirs
-!config/*/
-config/*
 sql/test_db
 
 # vscode
