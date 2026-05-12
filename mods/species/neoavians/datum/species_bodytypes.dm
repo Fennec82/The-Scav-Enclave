@@ -3,7 +3,7 @@
 	icon_base            = 'mods/species/neoavians/icons/body_synthetic.dmi'
 	blood_overlays       = 'mods/species/neoavians/icons/blood_avian.dmi'
 	bodytype_category    = BODYTYPE_AVIAN
-	bodytype_flag        = BODY_FLAG_AVIAN
+	bodytype_flag        = BODY_EQUIP_FLAG_AVIAN
 	mob_size             = MOB_SIZE_LARGE
 	eye_icon             = 'mods/species/neoavians/icons/eyes.dmi'
 	nail_noun            = "talons"
