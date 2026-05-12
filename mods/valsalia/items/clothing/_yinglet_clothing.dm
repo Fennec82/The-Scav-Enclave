@@ -61,10 +61,11 @@
 	min_pressure_protection = -1
 	heat_protection = SLOT_UPPER_BODY|SLOT_LOWER_BODY|SLOT_LEGS|SLOT_FEET|SLOT_ARMS|SLOT_HANDS
 	armor = list(
-		ARMOR_MELEE = ARMOR_MELEE_KNIVES,
-		ARMOR_BULLET = ARMOR_BALLISTIC_MINOR,
-		ARMOR_LASER = ARMOR_LASER_MINOR,
+		ARMOR_MELEE = ARMOR_MELEE_RESISTANT,
+		ARMOR_BULLET = ARMOR_BALLISTIC_SMALL,
+		ARMOR_LASER = ARMOR_LASER_SMALL,
 		ARMOR_RAD = ARMOR_RAD_SMALL,
+		ARMOR_ENERGY = ARMOR_ENERGY_MINOR,
 		ARMOR_BOMB = ARMOR_BOMB_PADDED
 		)
 	max_pressure_protection = VOIDSUIT_MAX_PRESSURE
@@ -159,6 +160,22 @@
 	desc = "White shorts and a shirt with a blue scarf made for a yinglet. A fancy outfit for a fancy lad."
 	bodytype_equip_flags = BODY_FLAG_YINGLET
 	icon = 'mods/valsalia/icons/clothing/suit/fancy_clothes_yinglet.dmi'
+
+/obj/item/clothing/suit/rusticying
+	name = "yinglet rustic dress"
+	desc = "A cream coloured dress with some green highlights. Worn by rural cuties."
+	bodytype_equip_flags = BODY_FLAG_YINGLET
+	icon = 'mods/valsalia/icons/clothing/suit/rusticying.dmi'
+
+/obj/item/clothing/suit/robe/yinglet/mantleying
+	name = "yinglet mantle"
+	desc = "A blue mantle and skirt fitted for a yinglet. Quite fashionable."
+	icon = 'mods/valsalia/icons/clothing/suit/mantleying.dmi'
+
+/obj/item/clothing/suit/robe/yinglet/countercoat
+	name = "yinglet longcoat"
+	desc = "A leather coat with a green gown underneath. Usually worn by learned ones."
+	icon = 'mods/valsalia/icons/clothing/suit/countercoat.dmi'
 
 /obj/item/clothing/suit/yingjacket
 	name = "yinglet jacket"
